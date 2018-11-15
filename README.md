@@ -1,3 +1,3 @@
 # SASI-parity-board
 
-X68000用パリティ基板
+for X68000
